@@ -1,4 +1,4 @@
-package br.com.vitorarimatea.todolist.service;
+package br.com.vitorarimatea.todolist.entity;
 
 import jakarta.persistence.*;
 
